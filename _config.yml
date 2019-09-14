@@ -111,17 +111,17 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is my portfolio to showcase my skills."
   location         : "New Delhi,India"
-  email            :
+  email            : "tanishakhurana1112@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: tanishakhurana1112@gmail.com
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "tanishakhurana1112@gmail.com"
+    - label: "Linkedin"
+      icon: "fas fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tanisha-khurana-3a6371140/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tanisha1112"
+      url: "https://twitter.com/tanishaa1112"
    # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
