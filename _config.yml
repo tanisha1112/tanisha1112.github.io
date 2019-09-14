@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Tanisha Khurana"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_460169595557459.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is my portfolio to showcase my skills."
   location         : "New Delhi,India"
   email            : "tanishakhurana1112@gmail.com"
