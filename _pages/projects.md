@@ -1,11 +1,12 @@
---
+---
 layout: posts
-title:"Projects"
 permalink: /projects/
+title: "My Projects"
 author_profile: true
 header:
-	image:"/images/witch.jpg"
+  image: "/images/witch.jpg"
 ---
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
