@@ -4,6 +4,6 @@ permalink: /projects/
 title: "My Projects"
 author_profile: true
 header:
-  image: "/images/witch.jpg"
+  image: "/images/pixel.png"
 ---
 
