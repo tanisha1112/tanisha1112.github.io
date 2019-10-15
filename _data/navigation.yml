@@ -6,6 +6,8 @@ main:
     url: /blog/
   - title: "Books I read"
     url: /books/
+  - title: "More about me, written by me in a narcissitic and vain manner."
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
