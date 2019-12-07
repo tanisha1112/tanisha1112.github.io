@@ -30,8 +30,8 @@ That's all for now, I'll update when I have learnt a little more and have more s
 Untill then here's an image I took which I really like. 
 
 !["A preety good tiger"](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-!["Pretty flowers"](/images/flowers.jpg)
-!["Dog on a car"](/images/dogonacar.jpg)
+!["Pretty flowers"](flowers.jpg)
+!["Dog on a car"](dogonacar.jpg)
 
 
     
