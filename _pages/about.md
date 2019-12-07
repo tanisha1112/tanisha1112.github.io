@@ -10,7 +10,7 @@ header:
 ## Hi!
 I'm Tanisha Khurana, and in this section I'm going to tell you a little about myself. Why? you may ask? I have no clue. But since you're already here and already wasted this much time, why not read the whole thing.
 
-#### An electronics and communication engineer, I loved the idea of building just about anything. Getting my hands on IC's, making my first PCB (printed circuit board), I loved it all. I was interested in embedded systems, micro controllers, VLSI Design and then actually coding the FPGA's and 8051 and PIC.  
+An electronics and communication engineer, I loved the idea of building just about anything. Getting my hands on IC's, making my first PCB (printed circuit board), I loved it all. I was interested in embedded systems, micro controllers, VLSI Design and then actually coding the FPGA's and 8051 and PIC.  
 But as my studies progressed, I also started liking other subjects such as Digital Image Processing and Artificial Intelligence and Robotics.
 I took a few workshops on Machine Learning and also did a few online courses such as Machine Learning by Andrew Ng and Deep Learning.ai in the beginning. 
 
@@ -23,16 +23,15 @@ In this company I dealt with having a large influx of data, understood the funct
 I was also involved as an intern in working with convolutional neural networks, Resnet-30 and Yolo (You Only Look Once)algorithm and using the dataset to correctly analyse face feautures such as age, gender, etc by the dataset given by the Delhi Police. 
 I came to know about the whole data cleaning and collection part. Since we also took images from the internet to detect malicious activity, such as people who are crouching or weapon detection, taking images of people with guns and this system was then used in the Republic day parade for any terrorist activity or threat.
 
-The truly important bit is how our work measures and impacts in the long run. Are we doing anything to help the society, the environment? I look  forward to working where I leave a mark, it doesn't have to be huge, just a little to show my contribution. * I want to do my part *
+The truly important bit is how our work measures and impacts in the long run. Are we doing anything to help the society, the environment? I look  forward to working where I leave a mark, it doesn't have to be huge, just a little to show my contribution. _ I want to do my part _
 
 That's all for now, I'll update when I have learnt a little more and have more stories to tell. 
 
 Untill then here's an image I took which I really like. 
 
-<img src="https://octodex.github.com/images/jetpacktocat.png"
-height="100"
-
-
+!["A preety good tiger"](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+!["Pretty flowers"](/images/flowers.jpg)
+!["Dog on a car"](/images/dogonacar.jpg)
 
 
     
