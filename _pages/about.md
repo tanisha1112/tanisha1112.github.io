@@ -29,14 +29,12 @@ That's all for now, I'll update when I have learnt a little more and have more s
 
 Untill then here are some images I took which I really like. 
 
-<img src="C:\Users\Tanisha\Desktop\github page\images\flowers.jpg" width="400" height="600">
-<img src="C:\Users\Tanisha\Desktop\github page\images\dogonacar.jpg" width="200" height="200">
-<img src="C:\Users\Tanisha\Desktop\github page\images\doghi.jpg" width="200" height="200">
-
-<img src="C:\Users\Tanisha\Desktop\github page\images\skyyellow.jpg" width="200" height="200">
-
-<img src="C:\Users\Tanisha\Desktop\github page\images\pinktree.jpg" width="200" height="200">
-
+!["Pretty flowers"](flowers.jpg = 400x400)
+!["Pretty flowers"](pinktree.jpg = 400x400)
+!["sky yellow"](skyyellow.jpg = 300x600)
+!["Dog on a car"](dogonacar.jpg = 200x200)
+!["Dog"](doghi.jpg = 300x200)
+!["scooter"](scooter.jpg = 300x600)
 
 
     
