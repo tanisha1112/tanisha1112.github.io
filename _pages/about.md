@@ -27,11 +27,16 @@ The truly important bit is how our work measures and impacts in the long run. Ar
 
 That's all for now, I'll update when I have learnt a little more and have more stories to tell. 
 
-Untill then here's an image I took which I really like. 
+Untill then here are some images I took which I really like. 
 
-!["A preety good tiger"](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-!["Pretty flowers"](flowers.jpg)
-!["Dog on a car"](dogonacar.jpg)
+<img src="C:\Users\Tanisha\Desktop\github page\images\flowers.jpg" width="400" height="600">
+<img src="C:\Users\Tanisha\Desktop\github page\images\dogonacar.jpg" width="200" height="200">
+<img src="C:\Users\Tanisha\Desktop\github page\images\doghi.jpg" width="200" height="200">
+
+<img src="C:\Users\Tanisha\Desktop\github page\images\skyyellow.jpg" width="200" height="200">
+
+<img src="C:\Users\Tanisha\Desktop\github page\images\pinktree.jpg" width="200" height="200">
+
 
 
     
