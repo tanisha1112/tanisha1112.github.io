@@ -32,11 +32,9 @@ Untill then here are some images I took which I really like.
 !["Pretty flowers"](flowers.jpg)
 !["Pretty flowers"](pinktree.jpg)
 !["sky yellow"](skyyellow.jpg)
-!["Dog on a car"](dogonacar.jpg)
+!["Dog on a car"](dogonacar.jpg =200x200)
 !["Dog"](doghi.jpg)
 !["scooter"](scooter.jpg)
-
-<img src="flowers.jpg" alt="hi" class="inline" width="200" height="200"/>
 
     
 
