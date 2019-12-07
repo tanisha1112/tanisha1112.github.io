@@ -29,13 +29,14 @@ That's all for now, I'll update when I have learnt a little more and have more s
 
 Untill then here are some images I took which I really like. 
 
-!["Pretty flowers"](flowers.jpg = 400x400)
-!["Pretty flowers"](pinktree.jpg = 400x400)
-!["sky yellow"](skyyellow.jpg = 300x600)
-!["Dog on a car"](dogonacar.jpg = 200x200)
-!["Dog"](doghi.jpg = 300x200)
-!["scooter"](scooter.jpg = 300x600)
+!["Pretty flowers"](flowers.jpg)
+!["Pretty flowers"](pinktree.jpg)
+!["sky yellow"](skyyellow.jpg)
+!["Dog on a car"](dogonacar.jpg)
+!["Dog"](doghi.jpg)
+!["scooter"](scooter.jpg)
 
+<img src="flowers.jpg" alt="hi" class="inline" width="200" height="200"/>
 
     
 
