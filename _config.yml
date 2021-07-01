@@ -111,11 +111,9 @@ author:
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is my portfolio to showcase my skills."
   location         : "New Delhi,India"
+  email            : "tanishakhurana1112@gmail.com"
 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "tanishakhurana1112@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/tanisha-khurana-3a6371140/"
