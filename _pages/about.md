@@ -32,7 +32,7 @@ Untill then here are some images I took which I really like.
 !["Pretty flowers"](flowers.jpg)
 !["Pretty flowers"](pinktree.jpg)
 !["sky yellow"](skyyellow.jpg)
-!["Dog on a car"](dogonacar.jpg =200x200)
+!["Dog on a car"](dogonacar.jpg)
 !["Dog"](doghi.jpg)
 !["scooter"](scooter.jpg)
 
