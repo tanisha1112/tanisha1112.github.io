@@ -1,9 +1,7 @@
 ---
 layout: posts
-permalink: /projects/
-title: "My Projects"
+permalink: /experience/
+title: "Experience"
 author_profile: true
-header:
-  image: "/images/pixel.png"
 ---
 

@@ -1,12 +1,9 @@
 ---
 layout: posts
-permalink: /books/
-title: "Books I read this year"
+permalink: /skills/
+title: "Skills"
 author_profile: true
-header:
-  image: "/images/witch.jpg"
 ---
 
-Books I liked and didn't like :
 
 
