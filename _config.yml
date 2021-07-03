@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "sunrise", "dirt", "neon", "mint", "plum", "air"
+minimal_mistakes_skin    :  "default" # "dark", "aqua", "contrast", "sunrise", "dirt", "neon", "mint", "plum", "air"
 
 # Site Settings
 locale                   : "en-IN"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Tanisha Khurana"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is my portfolio to showcase my skills."
+  bio              : "Welcome to my website!"
   location         : "New Delhi,India"
   email            : "tanishakhurana1112@gmail.com"
 

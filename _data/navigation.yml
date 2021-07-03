@@ -1,12 +1,11 @@
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Books I read"
-    url: /books/
-  - title: "More about me"
+  - title: "Experience"
+    url: /experience/
+  - title: "Skills"
+    url: /skills/
+  - title: "About me"
     url: /about/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resume"
+    url: /images/Tanisha_Resume.pdf
+
