@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /skills/
-title: "Skills"
+permalink: /blog/
+title: "Blog"
 author_profile: true
 ---
 

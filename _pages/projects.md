@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /experience/
-title: "Experience"
+permalink: /projects/
+title: "Projects"
 author_profile: true
 ---
 
