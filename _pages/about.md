@@ -26,16 +26,7 @@ I came to know about the whole data cleaning and collection part. Since we also 
    
 The truly important bit is how our work measures and impacts in the long run. Are we doing anything to help the society, the environment? I look  forward to working where I leave a mark, it doesn't have to be huge, just a little to show my contribution. _ I want to do my part _
 
-That's all for now, I'll update when I have learnt a little more and have more stories to tell. 
 
-Untill then here are some images I took which I really like. 
-
-!["Pretty flowers"](flowers.jpg)  
-!["Pretty flowers"](pinktree.jpg)  
-!["sky yellow"](skyyellow.jpg)   
-!["Dog on a car"](dogonacar.jpg)   
-!["Dog"](doghi.jpg)   
-!["scooter"](scooter.jpg)   
 
     
 
