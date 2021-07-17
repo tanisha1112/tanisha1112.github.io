@@ -4,8 +4,8 @@ layout: single
 author_profile: true
 excerpt: 'Welcome to my Website!'
 header:
-  image:  "/images/2.jpg"
-  #overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  overlay_image:  "/images/2.jpg"
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credits: Neena Sidhu"
 ---
 
