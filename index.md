@@ -12,7 +12,6 @@ header:
 # Hello!
 I'm Tanisha Khurana, an electronics and communication engineer interested in IOT, computer vision and deep learning.I love to think about the intersection of both hardware and software and leveraging both to create something useful.  
 
-*I have always been eager to meet new technical challenges and gain a deeper understanding to tackle the problem at hand.From noisy sensor output data to images to sequential and spatial data, I have been trying to make sense out of them to create something that has a real world impact.As an R&D Engineer, I love to put forward my technical and analytical skills and learn something new every day.*  
 
 I am currently based in Delhi, India and I'm always looking for opportunities to work with passionate people on shared goals, whether it be creative, personal or professional projects!
 
