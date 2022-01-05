@@ -5,7 +5,6 @@ header:
   image:  "/images/banner3.png"
 ---
 
-# Hello!
 I'm Tanisha Khurana, an electronics and communication engineer interested in IOT, computer vision and deep learning.I love to think about the intersection of both hardware and software and leveraging both to create something useful.  
 
 
