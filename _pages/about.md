@@ -4,7 +4,7 @@ layout: posts
 permalink: /about/
 author_profile: true
 header:
-  image:  "/images/banner5.png"
+  image:  "/images/about.gif"
 
 ---
 
