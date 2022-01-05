@@ -1,12 +1,8 @@
 ---
-title : Tanisha Khurana
 layout: single
 author_profile: true
-excerpt: 'Welcome to my Website!'
 header:
-  overlay_image:  "/images/banner2.png"
-  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credits: Neena Sidhu"
+  image:  "/images/banner3.png"
 ---
 
 # Hello!
