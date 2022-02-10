@@ -296,7 +296,7 @@ defaults:
       layout: single
       author_profile: true
 
-  #projects
+  #_projects
   - scope:
       path: ""
       type: portfolio
