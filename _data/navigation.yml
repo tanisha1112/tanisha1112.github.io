@@ -9,3 +9,8 @@ main:
   - title: "Resume"
     url: /images/Tanisha_resume.pdf
 
+portfolio:
+  - title: "Projects"
+    children:
+      - title: "Intello Sort"
+        url: /projectlist/intellosort
