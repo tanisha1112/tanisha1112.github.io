@@ -1,6 +1,6 @@
 ---
 title : My Projects
-layout: posts
+layout: single
 permalink: /projects/
 author_profile: true
 header:
