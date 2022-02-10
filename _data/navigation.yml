@@ -13,4 +13,4 @@ portfolio:
   - title: "Projects"
     children:
       - title: "Intello Sort"
-        url: /projectlist/intellosort
+        url: /intellosort

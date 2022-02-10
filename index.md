@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 header:
   image:  "/images/banner.gif"
+date: 2021-02-10
 ---
 
 **Hello!** 
@@ -39,7 +40,6 @@ I am currently based in Delhi, India and I'm always looking for opportunities to
 - AWS, Docker
 - Arduino, Raspberry Pi
 	
-Updated on- (17.06.2021)
 
 
 	 

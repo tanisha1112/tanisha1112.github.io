@@ -1,7 +1,7 @@
 ---
 title: "Intello Sort"
 layout: single
-permalink: /projectlist/intellosort
+permalink: /intellosort
 ---
 
 Intello Sort
