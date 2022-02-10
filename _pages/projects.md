@@ -3,6 +3,7 @@ layout: single
 permalink: /projects/
 header:
   image:  "/images/project.gif"
+author_profile: false
 sidebar:
   nav: "projects"
 
