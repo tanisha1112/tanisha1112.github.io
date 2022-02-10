@@ -1,5 +1,4 @@
 ---
-title : My Projects
 layout: single
 permalink: /projects/
 author_profile: true
@@ -15,10 +14,10 @@ feature_row:
     excerpt: "Automated Commodity based Sorter"
     url: "/projectlist/intellosort"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
 
 ---
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+<div style="margin-bottom:1cm" align="center"><font size="20">Selected Projects</font></div>
 
 {% include feature_row %}
