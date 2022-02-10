@@ -18,3 +18,7 @@ feature_row:
     btn_class: "btn--primary"
 
 ---
+
+<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+
+{% include feature_row %}
