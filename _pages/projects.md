@@ -34,7 +34,7 @@ feature_row:
   - image_path: images/samp.png
     alt: "Digital Samp"
     title: "Digitize industrial P&I diagrams using computer vision"
-    excerpt: "Detect symbols such as pipes,valves,tanks and vessels with connected lines and text using symbol and line detection"
+    excerpt: "Detect symbols such as pipes,valves,tanks and vessels with connected lines and text using symbol and line detection with Omdena partnered with Digital Samp"
 
   - image_path: images/slowfast.jpeg
     alt: "SlowFast"
