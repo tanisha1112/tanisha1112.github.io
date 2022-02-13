@@ -7,7 +7,5 @@ header:
   image:  "/images/blog.gif"
 ---
 
-Blog is coming soon!
-
 
 

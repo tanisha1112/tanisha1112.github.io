@@ -6,8 +6,7 @@ author_profile: true
 excerpt_separator: "<!--more-->"
 ---
 
-This is a bash cheatsheet I created when I got my hands on server remote control, process handling etc.
-
+This is a bash cheatsheet for all the tricks I learnt
 <!--more-->
 
 
@@ -21,18 +20,27 @@ $ lspci | grep -i --color 'vga\|3d\|2d'
 Get GPUs status
 ```sh
 $ nvidia-smi
+
+```
+or 
+```sh
+$ watch nvidia-smi
 ```
 
 htop:
 ```sh
 $ htop
 ```
+storage:
+```sh
+$ du
+```
 
 ## Processes handling
 
 Check the processes running
 ```sh
-$ ps aux | grep X (example: ps aux | grep apt)
+$ ps aux | grep X 
 ```
 
 Kill a process using its PID
@@ -42,30 +50,47 @@ $ kill -9 PID
 
 ## Remote control
 
-Copy from local to ssh, from ssh to local
+Find IP address
 ```sh
-$ scp (-r) chemin/fichier login@serveur:chemin
-$ scp (-r) login@serveur:chemin/file chemin/
+$ hostname -I
+```
+or
+```sh
+$ ifconfig
 ```
 
-Atom Remote, open distant folder on Atom
+Copy from local to ssh
 ```sh
-$ ssh -R 52698:localhost:52698 rafaelcartenet@143.248.39.104
+$ scp (-r) 
+```
+To visualize the GUI 
+```sh
+$ ssh -X hostname@192.168.XXX.X
+```
+Once inside:
+```sh
+$ nautilus
+```
+## Multiple Screens
+
+```sh
+$ tmux new -s session_name
+Ctrl+b d
 ```
 
-Download content from the given url
+To reattach to a tmux session
 ```sh
-$ wget URL
+$ tmux attach-session -t tmuxID
 ```
 
-History of all different ssh commands used
 ```sh
-$ history | grep ssh
+$ screen -S
+ctrl A +D 
 ```
 
-Call command ID
+To reattach to a screen 
 ```sh
-$ !idcommand
+$ screen -r screenID
 ```
 
 ## Unzip

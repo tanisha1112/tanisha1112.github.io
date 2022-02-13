@@ -10,7 +10,13 @@ main:
     url: /images/Tanisha_resume.pdf
 
 projects:
-  - title: "Projects"
+  - title: "Index"
     children:
-      - title: "Intello Sort"
-        url: /intellosort
+      - title: "Professional Projects"
+        children:
+          - title: "Intello Sort"
+          - url: /intellosort
+          - title: "GenElek Exoskeleton Development"
+          - url: /genelek
+          - title: "Activity Recognition"
+          
