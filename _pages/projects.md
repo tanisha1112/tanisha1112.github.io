@@ -48,7 +48,7 @@ feature_row:
 
   - image_path: images/qiggle.png
     alt: "Qiggle"
-    title: "Predictine Maintenance System"
+    title: "Predictive Maintenance System"
     excerpt: "Used FFT and vibrational analysis to calculate anomaly detection and remaining life estimation of industrial equipment."
 
   - image_path: images/finalproj.jpg

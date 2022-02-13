@@ -7,8 +7,8 @@ header:
   image:  "/images/about.gif"
 
 gallery:
-  - url: /images/gallery/1.jpg
-    image_path: /images/gallery/1.jpg
+  - url: /images/gallery/new1.jpg
+    image_path: /images/gallery/new1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /images/gallery/2.jpg
