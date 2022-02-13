@@ -23,6 +23,10 @@ gallery:
     image_path: /images/gallery/4.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: /images/gallery/10.jpg 
+    image_path: /images/gallery/10.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"  
   - url: /images/gallery/5.jpg
     image_path: /images/gallery/5.jpg
     alt: "placeholder image 1"
@@ -37,6 +41,10 @@ gallery:
     title: "Image 1 title caption"  
   - url: /images/gallery/8.jpg
     image_path: /images/gallery/8.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption" 
+  - url: /images/gallery/9.jpg 
+    image_path: /images/gallery/9.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"  
 ---
