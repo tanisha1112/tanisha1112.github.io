@@ -21,7 +21,7 @@ feature_row:
   - image_path: images/genelek.png
     alt: "Genelek"
     title: "Assistive Robotic Exoskeleton"
-    excerpt: "Built a wearable mobile machine powered by a system of electric motors, pneumatics, levers, hydraulics that allow for limb movement for disabled, paraplegic or other neurological condition for GeneleK Technologies"
+    excerpt: "Built a wearable mobile machine powered by a system of electric motors, pneumatics, levers, hydraulics that allow for limb movement using an EMG sensor with Arduino for GeneleK Technologies"
 
   - image_path: images/foodweb.png
     alt: "Intello Sort"
@@ -42,9 +42,14 @@ feature_row:
     excerpt: "Activity Recognition using Slowfast network"
 
   - image_path: images/yolov5.jpg
-    alt: "Intello Sort"
+    alt: "YOLOV5"
     title: "MultiClass Object Detection"
-    excerpt: "Developed POC's for Wobot using Yolov5"
+    excerpt: "Developed POC's for Wobot using object detection and localisation using YOLOv5 and ResNet50"
+
+  - image_path: images/qiggle.png
+    alt: "Qiggle"
+    title: "Predictine Maintenance System"
+    excerpt: "Used FFT and vibrational analysis to calculate anomaly detection and remaining life estimation of industrial equipment."
 
   - image_path: images/finalproj.jpg
     alt: "Final Project"
@@ -56,3 +61,10 @@ feature_row:
 <div style="margin-bottom:1cm" align="center"><font size="7">Selected Projects</font></div>
 
 {% include feature_row %}
+
+Developed websites for NGO's as part of Bhumi, a non-profit organisation. 
+
+1. [Cards NGO ](https://www.cardsngo.org/about/) : 
+Community Action for Rural Development Society (CARDS) is a non-governmental, social service organization, centered around the downtrodden and oppressed people of backward villages in Gingee, Memalayanur and Vallam Blocks of Villupuram District, Tamil Nadu.
+
+2.  [Chaitanya Charitable Trust ](https://chaitanyatrust.org.in/home/) : Chaitanya Charitable Trust is a non-profit, non-government organization (NGO) that works primarily with the slum population in Jamnagar, Gujarat to improve children’s education. It also works in health & human services, education, women’s empowerment, environment & humanitarian relief.

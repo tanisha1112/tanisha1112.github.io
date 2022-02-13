@@ -14,5 +14,6 @@ Intello Sort
 
 [Intello Sort](https://www.intellolabs.com/intellosort)
 
-
+Implemented image processing algorithms such as Colour Segmentation, K-means Clustering, PCA using Python and
+OpenCV such that the commodities get classified according to size and colour.
 

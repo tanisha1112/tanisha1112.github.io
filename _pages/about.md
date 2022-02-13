@@ -30,11 +30,22 @@ gallery:
   - url: /images/gallery/6.jpg
     image_path: /images/gallery/6.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"    
+    title: "Image 1 title caption"   
+  - url: /images/gallery/7.jpg
+    image_path: /images/gallery/7.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"  
+  - url: /images/gallery/8.jpg
+    image_path: /images/gallery/8.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"  
 ---
 
+To see pictures of dogs on cars or just dogs in general, Follow my page [dogonacar](
+https://www.instagram.com/dogonacar/?hl=en)
 
-{% include gallery caption="This is a sample gallery with." %}
+
+{% include gallery caption="This is a gallery of my favourite pictures" %}
 
 
 
