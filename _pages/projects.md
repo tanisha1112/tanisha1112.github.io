@@ -41,7 +41,7 @@ feature_row:
     title: "Activity Recognition using Slowfast"
     excerpt: "Activity Recognition using Slowfast network"
 
-  - image_path: images/yolov5
+  - image_path: images/yolov5.jpg
     alt: "Intello Sort"
     title: "MultiClass Object Detection"
     excerpt: "Developed POC's for Wobot using Yolov5"
