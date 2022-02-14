@@ -13,7 +13,7 @@ feature_row:
   - image_path: images/sort.webp
     alt: "Intello Sort"
     title: "Automated Commodity based Sorter"
-    excerpt: "Developed algorithm and built deep learning models for Intello Labs"
+    excerpt: "Developed object tracking algorithm and built deep learning object detection models such as MaskRCNN, FasterRCNN and SSD for Intello Labs"
     url: "/intellosort"
     btn_label: "Read More"
     btn_class: "btn--inverse"
