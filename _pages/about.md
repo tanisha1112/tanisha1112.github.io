@@ -17,6 +17,11 @@ gallery:
     alt: "placeholder image 2"
     title: "Pigeonssss"
 
+  - url: /images/gallery/gal2.jpg
+    image_path: /images/gallery/gal2.jpg
+    alt: "placeholder image 1"
+    title: "Regular Fries" 
+
   - url: /images/gallery/3.jpg
     image_path: /images/gallery/3.jpg
     alt: "placeholder image 1"
@@ -71,10 +76,7 @@ gallery:
     image_path: /images/gallery/gal3.jpg
     alt: "placeholder image 1"
     title: "Cheesy Fries"  
-  - url: /images/gallery/gal2.jpg
-    image_path: /images/gallery/gal2.jpg
-    alt: "placeholder image 1"
-    title: "Regular Fries" 
+
 
   - url: /images/gallery/7.jpg
     image_path: /images/gallery/7.jpg
