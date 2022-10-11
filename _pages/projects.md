@@ -31,6 +31,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
+  - image_path: images/lpr.png
+    alt: "Wobot"
+    title: "Vehicle wait time detection"
+    excerpt: Uses Yolov5m for Vehicle detection, Yolov5s (License plate detector), Nvidia-LPRnet and Paddle Ocr for license plate detection and detects the wait time if it exceed a specified amount. 
+
   - image_path: images/samp.png
     alt: "Digital Samp"
     title: "Digitize industrial P&I diagrams using computer vision"
@@ -38,8 +43,8 @@ feature_row:
 
   - image_path: images/slowfast.jpeg
     alt: "SlowFast"
-    title: "Activity Recognition using Slowfast"
-    excerpt: "Activity Recognition using Slowfast network"
+    title: "Activity Recognition for usecases like mopping and shoplifting detection"
+    excerpt: "Activity Recognition using Slowfast network and I3d, C3d models"
 
   - image_path: images/yolov5.jpg
     alt: "YOLOV5"
