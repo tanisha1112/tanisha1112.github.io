@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Tanisha Khurana"
-  avatar           : "/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Vision Engineer"
-  location         : "New Delhi,India"
-  email            : "tanishakhurana1112@gmail.com"
+  avatar           : "/images/avatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Graduate student in ECE. Specializing in Computer Vision and Machine Learning"
+  location         : "Raleigh, NC"
+  email            : "tkhuran3@ncsu.edu"
 
   links:
     - label: "Linkedin"
@@ -306,4 +306,13 @@ defaults:
       sidebar:
         nav: "projects"
 
+  #about
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "blog"
 

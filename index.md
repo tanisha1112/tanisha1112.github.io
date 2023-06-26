@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image:  "/images/banner.gif"
+  image:  "/images/draw.png"
 date: 2021-05-06
 ---
 

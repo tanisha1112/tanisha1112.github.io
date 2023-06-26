@@ -1,8 +1,6 @@
 ---
 layout: single
 permalink: /projects/
-header:
-  image:  "/images/project.gif"
 author_profile: false
 sidebar:
   nav: "projects"
@@ -72,4 +70,4 @@ Developed websites for NGO's as part of Bhumi, a non-profit organisation.
 1. [Cards NGO ](https://www.cardsngo.org/about/) : 
 Community Action for Rural Development Society (CARDS) is a non-governmental, social service organization, centered around the downtrodden and oppressed people of backward villages in Gingee, Memalayanur and Vallam Blocks of Villupuram District, Tamil Nadu.
 
-2.  [Chaitanya Charitable Trust ](https://chaitanyatrust.org.in/home/) : Chaitanya Charitable Trust is a non-profit, non-government organization (NGO) that works primarily with the slum population in Jamnagar, Gujarat to improve children’s education. It also works in health & human services, education, women’s empowerment, environment & humanitarian relief.
+1.  [Chaitanya Charitable Trust ](https://chaitanyatrust.org.in/home/) : Chaitanya Charitable Trust is a non-profit, non-government organization (NGO) that works primarily with the slum population in Jamnagar, Gujarat to improve children’s education. It also works in health & human services, education, women’s empowerment, environment & humanitarian relief.

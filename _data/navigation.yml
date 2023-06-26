@@ -6,8 +6,7 @@ main:
     url: /blog/
   - title: "About me"
     url: /about/
-  - title: "Resume"
-    url: /images/Tanisha_resume.pdf
+
 
 projects:
   - title: "Index"
