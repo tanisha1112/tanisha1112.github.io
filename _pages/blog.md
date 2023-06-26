@@ -2,9 +2,9 @@
 layout: posts
 permalink: /blog/
 title: "Blog"
-author_profile: true
-header:
-  image:  "/images/blog.gif"
+author_profile: false
+sidebar:
+  nav: "blog"
 ---
 
 
