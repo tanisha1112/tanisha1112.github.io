@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Tanisha Khurana"
-  avatar           : "/images/avatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate student in ECE. Specializing in Computer Vision and Machine Learning"
   location         : "Raleigh, NC"
   email            : "tkhuran3@ncsu.edu"
@@ -306,13 +306,4 @@ defaults:
       sidebar:
         nav: "projects"
 
-  #about
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      author_profile: false
-      excerpt: ""
-      sidebar:
-        nav: "blog"
 
