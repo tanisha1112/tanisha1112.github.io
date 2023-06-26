@@ -15,7 +15,7 @@
 minimal_mistakes_skin    :  "default" # "dark", "aqua", "contrast", "sunrise", "dirt", "neon", "mint", "plum", "air"
 
 # Site Settings
-locale                   : "en-IN"
+locale                   : "en-US"
 title                    : "Tanisha Khurana"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead

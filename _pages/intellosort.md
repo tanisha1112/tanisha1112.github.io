@@ -2,6 +2,7 @@
 title: "Intello Sort"
 layout: single
 permalink: /intellosort
+author_profile: false
 ---
 
 Intello Sort

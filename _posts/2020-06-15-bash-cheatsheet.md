@@ -2,7 +2,7 @@
 layout: single
 title:  "Bash"
 date:   2020-06-15 20:16:01 -0600
-author_profile: true
+author_profile: false
 excerpt_separator: "<!--more-->"
 ---
 

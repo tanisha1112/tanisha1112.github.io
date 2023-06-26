@@ -2,6 +2,7 @@
 title: "Modelling Food Web Matrix and Population Forecasting"
 layout: single
 permalink: /ewomdena
+author_profile: false
 ---
 
 
