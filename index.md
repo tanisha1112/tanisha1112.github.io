@@ -12,6 +12,5 @@ I'm Tanisha Khurana, a graduate student in my second year of masters in Electric
 
 I am currently based in Raleigh, North Carolina and I'm always looking for opportunities to work with passionate people on shared goals, whether it be creative, personal or professional projects!
 
-You can download my resume [here](images/Tanisha_resume_ML.pdf).
 
 

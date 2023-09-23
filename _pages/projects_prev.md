@@ -4,6 +4,9 @@ permalink: /projects/
 author_profile: false
 sidebar:
   nav: "projects"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
 
 date: 2018-01-07
 
