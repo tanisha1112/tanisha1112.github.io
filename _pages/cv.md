@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /cv/
-author_profile: true
+author_profile: false
 # sidebar:
 #   nav: "cv"
 toc: true
