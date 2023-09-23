@@ -2,6 +2,8 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /cv/
   - title: "Blog"
     url: /blog/
   - title: "About me"
@@ -12,10 +14,12 @@ projects:
   - title: "Index"
     children:
       - title: "Professional Projects"
-        children:
-          - title: "Intello Sort"
-          - url: /intellosort
-          - title: "GenElek Exoskeleton Development"
-          - url: /genelek
-          - title: "Activity Recognition"
+        url: "#professional-projects"
+      - title: "Academic Projects"
+        url: "#academic-projects"
+      - title: "Research Projects"
+        url: "#research-projects"
+      - title: "Personal Projects"
+        url: "#personal-projects"
+
           
