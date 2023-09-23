@@ -1,10 +1,14 @@
 ---
 layout: single
 permalink: /cv/
-author_profile: false
-sidebar:
-  nav: "cv"
-date: 2023-07-4
+author_profile: true
+# sidebar:
+#   nav: "cv"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
+date: 2023-22-9
+
 ---
 
 

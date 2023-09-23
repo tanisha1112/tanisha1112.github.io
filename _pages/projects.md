@@ -1,14 +1,14 @@
 ---
 layout: single
 permalink: /projects/
-author_profile: false
-sidebar:
-  nav: "projects"
+author_profile: true
+# sidebar:
+#   nav: "projects"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
-date: 2018-01-07
+date: 2023-22-9
 
 feature_row:
   - image_path: images/sort.webp
