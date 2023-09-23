@@ -2,8 +2,8 @@
 layout: single
 permalink: /cv/
 author_profile: false
-# sidebar:
-#   nav: "cv"
+sidebar:
+  nav: "cv"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"

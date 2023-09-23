@@ -2,8 +2,8 @@
 layout: single
 permalink: /projects/
 author_profile: false
-# sidebar:
-#   nav: "projects"
+sidebar:
+  nav: "projects"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"

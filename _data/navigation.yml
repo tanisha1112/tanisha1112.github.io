@@ -10,15 +10,26 @@ main:
     url: /about/
 
 
-# projects:
-#   - title: "Index"
-#     children:
-#       - title: "Professional Projects"
-#         url: "#professional-projects"
-#       - title: "Academic Projects"
-#         url: "#academic-projects"
-#       - title: "Research Projects"
-#         url: "#research-projects"
-#       - title: "Personal Projects"
-#         url: "#personal-projects"
+projects:
+  - title: "Index"
+    children:
+      - title: "Image Processing"
+        url: "#computer vision"
+      - title: "Machine Learning"
+        url: "#academic-projects"
+      - title: "Natural Language Processing"
+        url: "#"
+      - title: "Personal Projects"
+        url: "#personal-projects"
 
+cv:
+  - title: "Index"
+    children:
+      - title: "Professional Projects"
+        url: "#professional-projects"
+      - title: "Academic Projects"
+        url: "#academic-projects"
+      - title: "Research Projects"
+        url: "#research-projects"
+      - title: "Personal Projects"
+        url: "#personal-projects"
