@@ -12,7 +12,7 @@ main:
 
 projects:
   - title: "Projects"
-    url: "/projects.md"
+    url: "/projects/"
   - title: "Image Processing"
     url: "#image processing "
   - title: "Machine Learning"
