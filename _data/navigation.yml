@@ -11,18 +11,18 @@ main:
 
 
 projects:
-  - title: "Index"
-    children:
-      - title: "Image Processing"
-        url: "#image processing "
-      - title: "Machine Learning"
-        url: "#Machine Learning"
-      - title: "Natural Language Processing"
-        url: "#Natural Language Processing"
-      - title: "Signal Processing"
-        url: "#Signal Processing"
-      - title: "Miscellaneous"
-        url: "#Miscellaneous"
+  - title: "Projects"
+    url: "#Course Projects"
+  - title: "Image Processing"
+    url: "#image processing "
+  - title: "Machine Learning"
+    url: "#Machine Learning"
+  - title: "Natural Language Processing"
+    url: "#Natural Language Processing"
+  - title: "Signal Processing"
+    url: "#Signal Processing"
+  - title: "Miscellaneous"
+    url: "#Miscellaneous"
 
 cv:
   - title: "Work Experience"
@@ -41,7 +41,8 @@ cv:
         url: "#Innefu Technologies"
       - title: "Genelek"
         url: "#Genelek"
-      - title: "Volunteer work"
+      - title: "Volunteer"
         url: "#Volunteer"
   - title: "Achievements"
   - title: "Skills"
+  - title: "Education"
