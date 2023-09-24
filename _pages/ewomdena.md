@@ -67,7 +67,7 @@ feature_row:
     title: "Real Time Water Quality Monitoring Using GSM"
     excerpt: "An IOT based solution to detect and monitor water quality using pH value sensor, turbidity and temperature with an Arduino Uno. SMS alerts are sent using GSM in real time"
 
----
+
 
 
 Developed websites for NGO's as part of Bhumi, a non-profit organisation. 
