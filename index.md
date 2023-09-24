@@ -5,9 +5,6 @@ header:
   image:  "/images/index_banner.jpg"
 date: 2023-09-09
 ---
-
-
-<!DOCTYPE html>
 <html>
 <head>
     <style>
