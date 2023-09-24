@@ -21,6 +21,8 @@ projects:
         url: "#Natural Language Processing"
       - title: "Signal Processing"
         url: "#Signal Processing"
+      - title: "Miscellaneous"
+        url: "#Miscellaneous"
 
 cv:
   - title: "Work Experience"
@@ -39,11 +41,7 @@ cv:
         url: "#Innefu Technologies"
       - title: "Genelek"
         url: "#Genelek"
-  - title: "Education"
-      children:
-      - title: "NC State"
-        url: "#North Carolina State University"
-      - title: "BVP"
-        url: "#Bharati Vidyapeeth University"
+      - title: "Volunteer work"
+        url: "#Volunteer"
   - title: "Achievements"
   -title: "Skills"
