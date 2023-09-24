@@ -11,4 +11,4 @@ toc_icon: "bookmark"
 date: 2023-09-09
 ---
 
-<div style="margin-bottom:1cm" align="center"><font size="5">Course Projects</font></div>
+<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Course Projects</font></div>
