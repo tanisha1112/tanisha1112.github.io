@@ -10,6 +10,17 @@ toc_icon: "bookmark"
 
 date: 2023-09-09
 ---
+
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+        }
+    </style>
+</head>
+<body>
+
 <div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Course Projects</font></div>
 
 ## Machine Learning
