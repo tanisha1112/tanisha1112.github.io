@@ -10,11 +10,12 @@ toc_icon: "bookmark"
 
 date: 2023-09-09
 ---
+<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Course Projects</font></div>
 
 ## Machine Learning
 
 ### Deepfake Detection 
-<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Course Projects</font></div>
+
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/deepfake-detection)
 
