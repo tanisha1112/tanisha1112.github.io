@@ -23,6 +23,9 @@ date: 2023-09-09
 
 <div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Course Projects</font></div>
 
+</body>
+</html>
+
 ## Machine Learning
 
 ### Deepfake Detection 
