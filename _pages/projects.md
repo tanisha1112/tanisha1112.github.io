@@ -18,7 +18,7 @@ date: 2023-09-09
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/deepfake-detection)
 
-<img src="/Users/tanishakhurana/Downloads/tanisha1112.github.io/images/XAI.png" width="580">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/XAI.png" width="580">{: .align-center}
 
 The objective of this project was to incorporate explainable AI (XAI) techniques to gain insights into the interpretability of the model. The project utilizes state-of-the-art XceptionNet architecture to detect deepfakes, and then employs LIME and GradCam algorithms to visualize and analyze how the model interprets the results.
 
