@@ -91,6 +91,16 @@ Applied data augmentation techniques to enhance the dataset’s diversity and mo
 
 2. Implementing and testing the 2-D FFT and its inverse using a built-in 1-D FFT algorithm.
 
+## Natural Language Processing
+
+### Modeling Food Web and Forecasting Populations for Endangered Wildlife Species
+
+Collaborated with Endangered Wildlife OU ̈ through Omdena to build an automated data collection & extraction tool.
+• Leveraged Beautiful Soup, Google Search API and journal parsing libraries such as pytesseract and tabula for efficient data
+extraction from PDFs and web sources.
+• Developed a Haystack BERT Question- Answering model integrated with Streamlit and AWS RDS on the backend to track the population of various species over time.
+
+[Look at results](https://tanisha1112.github.io/ewomdena){: .btn .btn--info}
 ## Signal Processing
 ### Kalman Filter Implementation in Matlab
 
