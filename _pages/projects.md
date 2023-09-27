@@ -39,7 +39,7 @@ The objective of this project was to incorporate explainable AI (XAI) techniques
 
 We extracted frames from FaceForensics ++ and CelebDF video dataset and trained the Xceptionet model pretrained on ImageNet weights and were able to achieve an accuracy of 0.99. 
 
-## Terrain Identification from Time Series Data
+### Terrain Identification from Time Series Data
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector)
 
@@ -100,7 +100,13 @@ Collaborated with Endangered Wildlife OU ̈ through Omdena to build an automated
 extraction from PDFs and web sources.
 • Developed a Haystack BERT Question- Answering model integrated with Streamlit and AWS RDS on the backend to track the population of various species over time.
 
-[Look at results](https://tanisha1112.github.io/ewomdena){: .btn .btn--info}
+<p float="left">
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew2.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew1.png" width="33%" />
+</p>
+
+
 ## Signal Processing
 ### Kalman Filter Implementation in Matlab
 

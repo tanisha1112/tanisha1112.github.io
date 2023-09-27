@@ -13,10 +13,10 @@ main:
 projects:
   - title: "Projects"
     url: /projects/
-  - title: "Image Processing"
-    url: "#image processing "
   - title: "Machine Learning"
     url: "#Machine Learning"
+  - title: "Computer Vision"
+    url: "#image processing "
   - title: "Natural Language Processing"
     url: "#Natural Language Processing"
   - title: "Signal Processing"
