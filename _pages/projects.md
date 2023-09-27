@@ -54,9 +54,7 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
 
 ### Laplacian Blob Detector
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1NMMu_QHn9m9T8cqx4lot8xK20abHmVwu#scrollTo=8krtvYmqjfLc)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1NMMu_QHn9m9T8cqx4lot8xK20abHmVwu#scrollTo=8krtvYmqjfLc)      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector)
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/blob.png" width="500">{: .align-center}
 
@@ -72,6 +70,7 @@ The Laplace is the sum of second derivatives (the trace of the Hessian matrix). 
 
 ### Comparative Analysis of 3D & 2D CNN for Lung Cancer Nodule Detection
 
+<br> 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nn_lung.png" width="500">{: .align-center}
 
 Created 2D and 3D CNN VGG-16 models to detect lung cancer with 79% and 91% sensitivity using Luna16 DICOM images.
