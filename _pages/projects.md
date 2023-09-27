@@ -44,7 +44,7 @@ We extracted frames from FaceForensics ++ and CelebDF video dataset and trained 
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1NMMu_QHn9m9T8cqx4lot8xK20abHmVwu#scrollTo=8krtvYmqjfLc)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Kalman-Filter-Simulation/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector)
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/blob.png" width="500">{: .align-center}
 
