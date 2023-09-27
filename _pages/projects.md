@@ -31,7 +31,7 @@ date: 2023-09-09
 ### Explainable AI for Deepfake Detection 
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/deepfake-detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/deepfake-detection){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/XAI.png" width="580">{: .align-center}
 
@@ -41,7 +41,7 @@ We extracted frames from FaceForensics ++ and CelebDF video dataset and trained 
 
 ### Terrain Identification from Time Series Data
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Terrain-Identification)
 
 This is a classification task to find different terrains from time series data. The idea is to train a neural network using given data to classify which terrain an unknown data represents. Class label 0 represents "standing/walking" 1 represents "going downstairs" 2 : "going upstairs" And 3: "walking on grass". We use F1 macro score as the evaluation metric.
 
@@ -123,7 +123,7 @@ Kalman filter estimates the state of a system with incomplete or noisy informati
 ### Convergence and Simulation of Random Variables using Matlab
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Kalman-Filter-Simulation/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Convergence_Testing_Matlab)
 
 This project involves simulation, transformation and convergence of Random Variables using 
 concepts underlined in:
