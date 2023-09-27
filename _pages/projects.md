@@ -96,14 +96,16 @@ Applied data augmentation techniques to enhance the dataset’s diversity and mo
 ### Modeling Food Web and Forecasting Populations for Endangered Wildlife Species
 
 Collaborated with Endangered Wildlife OU ̈ through Omdena to build an automated data collection & extraction tool.
-• Leveraged Beautiful Soup, Google Search API and journal parsing libraries such as pytesseract and tabula for efficient data
+
+Leveraged Beautiful Soup, Google Search API and journal parsing libraries such as pytesseract and tabula for efficient data
 extraction from PDFs and web sources.
-• Developed a Haystack BERT Question- Answering model integrated with Streamlit and AWS RDS on the backend to track the population of various species over time.
+
+Developed a Haystack BERT Question- Answering model integrated with Streamlit and AWS RDS on the backend to track the population of various species over time.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew.png" width="33%" />
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew2.png" width="33%" />
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew1.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew.png" width="300" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/ew1.png" width="300" />
 </p>
 
 
