@@ -41,7 +41,7 @@ We extracted frames from FaceForensics ++ and CelebDF video dataset and trained 
 
 ### Terrain Identification from Time Series Data
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Terrain-Identification)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Terrain-Identification){:target="_blank"}
 
 This is a classification task to find different terrains from time series data. The idea is to train a neural network using given data to classify which terrain an unknown data represents. Class label 0 represents "standing/walking" 1 represents "going downstairs" 2 : "going upstairs" And 3: "walking on grass". We use F1 macro score as the evaluation metric.
 
@@ -54,7 +54,7 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
 
 ### Laplacian Blob Detector
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1NMMu_QHn9m9T8cqx4lot8xK20abHmVwu#scrollTo=8krtvYmqjfLc)      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1NMMu_QHn9m9T8cqx4lot8xK20abHmVwu#scrollTo=8krtvYmqjfLc){:target="_blank"}      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Laplacian-Blob-Detector){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/blob.png" width="500">{: .align-center}
 
@@ -82,7 +82,7 @@ Applied data augmentation techniques to enhance the dataset’s diversity and mo
 
 ### Implemented 2D FFT in Python from scratch
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/ECE-558-Project2/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/ECE-558-Project2/tree/main){:target="_blank"}
 
 
 1. a.  Wrote a function to implement g= conv2(f, w, pad), where f is an input image (grey, or RGB), w is a 2-D kernel (e.g., 3 × 3 box filter), and pad represents the 4-padding type clip/zero-padding, wrap around, copy edge, and reflect across edge.
@@ -101,14 +101,14 @@ Collaborated with Endangered Wildlife OU ̈ through Omdena to build an automated
 extraction from PDFs and web sources.
 
 1. Developed a Haystack BERT Question- Answering model to track the population of various species over time.
-2. integrated with Streamlit and AWS RDS to give the results in a csv file and upload to the database. 
+2. Integrated with Streamlit and AWS RDS to give the results in a csv file and upload to the database. 
 
 
 ## Signal Processing
 ### Kalman Filter Implementation in Matlab
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Kalman-Filter-Simulation/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Kalman-Filter-Simulation/tree/main){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/Kalman.png" width="500">{: .align-center}
 
@@ -123,7 +123,7 @@ Kalman filter estimates the state of a system with incomplete or noisy informati
 ### Convergence and Simulation of Random Variables using Matlab
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Convergence_Testing_Matlab)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/Convergence_Testing_Matlab){:target="_blank"}
 
 This project involves simulation, transformation and convergence of Random Variables using 
 concepts underlined in:
@@ -132,7 +132,7 @@ concepts underlined in:
 
 ### FFT Implementation in MATLAB
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/FFT-Implementation-MATLAB/tree/main#fft-implementation-matlab)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/FFT-Implementation-MATLAB/tree/main#fft-implementation-matlab){:target="_blank"}
 
 For this assignment, I implemented three functions in MATLAB®:
 
