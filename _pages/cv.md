@@ -23,16 +23,15 @@ date: 2023-09-09
 </head>
 <body>
 
-<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Course Projects</font></div>
+<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Curriculum Vitae</font></div>
 
 </body>
 </html>
 
-<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">Curriculum Vitae</font></div>
 
 
 ## Resume 
-[Download Resume](https://tanisha1112.github.io/resumes/Tanisha_resume_CV_ML.pdf){: .btn .btn--info}
+[Download Resume](https://tanisha1112.github.io/resumes/Tanisha_resume_CV_ML.pdf){:target="_blank"}{: .btn .btn--info}
 
 ## Contact
 - Email: [tkhuran3@ncsu.edu]()
