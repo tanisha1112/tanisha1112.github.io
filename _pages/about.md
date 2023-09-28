@@ -7,8 +7,7 @@ header:
 
 ---
 
-<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">About me</font></div>
-  
+
 <html>
 <head>
     <style>
@@ -18,6 +17,12 @@ header:
     </style>
 </head>
 <body>
+
+<div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="center"><font size="6">About me</font></div>
+
+</body>
+</html>
+
 
 **Hi, It's nice to meet you. I'm Tanisha Knurana and I am really passionate about technology and using it for good.**
 
