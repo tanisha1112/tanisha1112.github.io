@@ -71,7 +71,7 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
    
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/gans.png" width="500">{: .align-center}
 
-- [Implemented Conditional Deep Convolutional GANs on MNIST dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw03.ipynb){:target="_blank"}
+- [Implemented Conditional Deep Convolutional GANs on MNIST dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_Midterm.ipynb){:target="_blank"}
 
 
 <p>
@@ -79,7 +79,7 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
   <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf2.png" width="300" /> 
 </p>
 
-- [Implemented Normalizing Flows architecture](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw03.ipynb){:target="_blank"}
+- [Implemented Normalizing Flows architecture](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw04.ipynb){:target="_blank"}
   
   The project involves designing a Normalizing Flow architecture with two transformations, f : x 7→ z and f−1 : z 7→ x where f takes a point, x belonging to the same distribution as one of the datasets, as input, and tries to transform it into z ∼ N(0,I2), where 0 = [0,0]T, and I2 is the 2×2 identity matrix. f−1 would be the inverse of f.
 
