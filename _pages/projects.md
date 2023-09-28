@@ -192,4 +192,3 @@ A code listing for these functions is provided in the appendix.
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/clt.png" width="400">{: .align-center}
 
 - Implementation of Central Limit theorem
-
