@@ -75,8 +75,8 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
 
 
 <p>
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf1.png"  width="40%" />{: .align-center}
-  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf2.png" width="40%" /> {: .align-center}
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf1.png"  width="300" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf2.png" width="300" /> 
 </p>
 
 - [Implemented Normalizing Flows architecture](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw03.ipynb){:target="_blank"}
@@ -186,10 +186,10 @@ A code listing for these functions is provided in the appendix.
 ### Simulations in MATLAB
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/ECE-751-Assignments/){:target="_blank"}
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/monte.png" width="500">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/monte.png" width="400">{: .align-center}
 - Monte Carlo Simulation
   
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/clt.png" width="500">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/clt.png" width="400">{: .align-center}
 
 - Implementation of Central Limit theorem
 
