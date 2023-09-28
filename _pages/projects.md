@@ -88,7 +88,7 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
 
   Generated a 6 gram dataset and used categorical cross-entropy along with Adam optimizer to train the model. 
 
-- [Train a Graphical Convolutional Network (GCN) to classify nodes in Zachary’s Karate Club dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_HW5_GCNN.ipynb){:target="_blank"}
+- [Trained a Graphical Convolutional Network (GCN) to classify nodes in Zachary’s Karate Club dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_HW5_GCNN.ipynb){:target="_blank"}
 
 
 ## Computer Vision
