@@ -1,9 +1,9 @@
 ---
 layout: single
 permalink: /projects/
-author_profile: false
-sidebar:
-  nav: "projects"
+author_profile: true
+# sidebar:
+#   nav: "projects"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
@@ -50,6 +50,47 @@ The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.
 * NN_C1 runs a random forest model for predictions
 * NN_C2 uses 2 1D CNN model
 * NN_C3 uses a BiLSTM model.
+
+
+### ECE 792 Advanced Machine Learning Coursework 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/ECE_792_Assignments/){:target="_blank"}
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/deconv.png" width="500">{: .align-center}
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/cnn.png" width="500">{: .align-center}
+
+- [Implemented CNN on MNIST dataset and Performed Deconvolution](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw02.ipynb){:target="_blank"}: Convolution, Deconvolution, CNN, Multilayer Perceptron, Batchnorm, Layernorm, Dropout, Maxpool.
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/cvae.png" width="500">{: .align-center}
+
+- [Implemented Conditional Variational Autoencoder on CelebA dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw03.ipynb){:target="_blank"}
+  
+  1. Developed and trained a CVAE to encode and manipulate images in CelebA database.
+  2. Used the previusly trained CVAE to manipulate an image by changing the attribute vector input to the encoded image.
+   
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/gans.png" width="500">{: .align-center}
+
+- [Implemented Conditional Deep Convolutional GANs on MNIST dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw03.ipynb){:target="_blank"}
+
+
+<p>
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf1.png"  width="40%" />{: .align-center}
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nf2.png" width="40%" /> {: .align-center}
+</p>
+
+- [Implemented Normalizing Flows architecture](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_hw03.ipynb){:target="_blank"}
+  
+  The project involves designing a Normalizing Flow architecture with two transformations, f : x 7→ z and f−1 : z 7→ x where f takes a point, x belonging to the same distribution as one of the datasets, as input, and tries to transform it into z ∼ N(0,I2), where 0 = [0,0]T, and I2 is the 2×2 identity matrix. f−1 would be the inverse of f.
+
+
+- [Implemented LSTM model to predict the next word of a sentence](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_HW5_LSTM.ipynb){:target="_blank"}
+
+  Generated a 6 gram dataset and used categorical cross-entropy along with Adam optimizer to train the model. 
+
+- [Train a Graphical Convolutional Network (GCN) to classify nodes in Zachary’s Karate Club dataset](https://github.com/tanisha1112/ECE_792_Assignments/blob/main/ECE_792_HW5_GCNN.ipynb){:target="_blank"}
+
+
 ## Computer Vision
 
 ### Laplacian Blob Detector
@@ -78,7 +119,7 @@ Created 2D and 3D CNN VGG-16 models to detect lung cancer with 79% and 91% sensi
 Conducted data preprocessing for nodule patch extraction, performed voxel coordinate conversion. 
 Applied data augmentation techniques to enhance the dataset’s diversity and model robustness
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nn.png" width="300">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/nn.png" width="450">{: .align-center}
 
 ### Implemented 2D FFT in Python from scratch
 
@@ -141,3 +182,14 @@ For this assignment, I implemented three functions in MATLAB®:
 2. myFFT_139, a decimation-in-time implementation of the FFT, and
 3. "butterfly", a decimation-in-time butterfly called by myFFT_139.
 A code listing for these functions is provided in the appendix.
+
+### Simulations in MATLAB
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/ECE-751-Assignments/){:target="_blank"}
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/monte.png" width="500">{: .align-center}
+- Monte Carlo Simulation
+  
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/clt.png" width="500">{: .align-center}
+
+- Implementation of Central Limit theorem
+
