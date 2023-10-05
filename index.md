@@ -17,6 +17,11 @@ date: 2023-09-09
 
 <div style="margin-bottom:1cm; font-family: 'Courier New', Courier, monospace;" align="left"><font size="5">Hello!!</font></div>
 
+
+</body>
+</html>
+
+
 I'm Tanisha Khurana, a graduate student in my second year of masters in Electrical Engineering at NC state university. I am specializing in signal processing and computational intelligence. I am currently working as a Graduate Research Assistant for the Department of Crop and Soil Sciences for [Precision Sustainable Agriculture](https://www.precisionsustainableag.org/){:target="_blank"} under Dr. Chris Reberg-Horton. My work encompass the entire developmental process of [PlantMap-3D](https://www.precisionsustainableag.org/plantmap3d){:target="_blank"}, spanning from the integration of ROS and cameras to the implementation of Semantic Segmentation for identifying plant species. 
 
 I am also doing research under Dr. Edgar Lobaton at [Active Robotics and Sensing Lab](https://research.ece.ncsu.edu/aros/){:target="_blank"} on Foramnifera Segmentation. 
@@ -32,7 +37,4 @@ I have taken courses such as Digital Imaging systems, Digital Signal Processing 
 
 I am currently based in Raleigh, North Carolina and I'm always looking for opportunities to work with passionate people on shared goals, whether it be creative, personal or professional projects!
 
-
-</body>
-</html>
 
