@@ -21,7 +21,7 @@ date: 2023-09-09
 </body>
 </html>
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/IMG_6828-modified.png" width="240">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/IMG_6828.jpg" width="250">{: .align-center}
 
 [Resume](https://tanisha1112.github.io/cv/){: .btn .btn--info}{:target="_blank"} [Portfolio](https://tanisha1112.github.io/projects/){: .btn .btn--info}{:target="_blank"} [LinkedIn](https://www.linkedin.com/in/tanisha-khurana/){: .btn .btn--info}{:target="_blank"}
 {: .text-center}
