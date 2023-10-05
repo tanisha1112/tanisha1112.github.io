@@ -117,11 +117,10 @@ topology preserving edge-based segmentation
 - Responsible for the actuation and simulation using Arduino, accelerometer, EMG muscle sensor and actuators
 ## Achievements
 
-- Recipient of GHC 2023 Scolarship and SWE 2023 Scholarship from NC State. 
+- Recipient of the GHC 2023 Scolarship and SWE 2023 Scholarship from NC State. 
 - Academic Chair for Women in ECE (wiECE) at NC State. 
 - Completed a 10 week Leadership Development Program Certification Course at NC State. Earned a leadership certificate by engaging in a coaching relationship and leadership experience, and completing the foundation workshops and a reflection paper.
 - Ranked first in NC Plant Science Initiative hackathon for the most accurate semantic segmentation model with 79% accuracy.
-
 - Member of Women in Computer Science (wics), Embedded Machine Learning Club and Quantum Information Club at NC State.
 ## Skills
 
