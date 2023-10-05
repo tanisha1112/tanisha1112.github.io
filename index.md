@@ -31,8 +31,6 @@ I'm currently working as a Graduate Research Assistant for the Department of Cro
 
 With over 3 years of experience in Computer Vision and Machine Learning, I possess a strong track record of leading teams and managing entire projects during my tenure at [Wobot.ai](https://wobot.ai/) and [Intello Labs](https://www.intellolabs.com/). This experience has allowed me to develop a deep understanding of computer vision and machine learning, which I have successfully applied to various projects, including object detection, image segmentation, video analysis, and facial recognition.
 
-Courses like Digital Imaging Systems, Digital Signal Processing, and Probability and Random Processes, which I took at NC State University, have significantly strengthened my foundation in signal and image processing.In addition, I have delved deeper into the field by taking courses in Neural Networks and Deep Learning, Advanced Machine Learning, Detection and Estimation Theory, Pattern Recognition, Cloud Computing, and Natural Language Processing, broadening my knowledge in the AI domain.
-
 I am currently based in Raleigh, North Carolina and I'm always looking for opportunities to work with passionate people on shared goals, whether it be creative, personal or professional projects!
 
 

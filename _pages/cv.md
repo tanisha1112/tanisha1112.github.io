@@ -127,3 +127,7 @@ topology preserving edge-based segmentation
 - **Languages:** Python, C/C++, SQL, Bash, Git
 - **Developer Tools:** MATLAB, AWS, Azure, Google Cloud, Docker
 - **Frameworks:** OpenCV, Pytorch, Tensorflow, Scikit-Learn, Pandas, Numpy, PIL, Matplotlib, Seaborn,Pytest ROS, Flask
+
+## Courses
+
+Digital Imaging Systems, Digital Signal Processing, and Probability and Random Processes, Neural Networks and Deep Learning, Advanced Machine Learning, Detection and Estimation Theory, Pattern Recognition, Cloud Computing, Natural Language Processing
