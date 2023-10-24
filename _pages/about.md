@@ -26,6 +26,11 @@ header:
 
 **Hi, It's nice to meet you. I'm Tanisha Khurana and I am really passionate about technology and using it for good.**
 
+Outside of my research and studies, I love reading books and you can follow me on goodreads to check out cool new book recommendations. 
+
+[Check my Goodreads](https://www.goodreads.com/user/show/16889236-tanisha){:target="_blank"}{: .btn .btn--info}
+{: .text-center}
+
 I am also passionate about volunteering and using my skills for a positive impact. I have been an active member of Omdena, Bhumi, WWF and Greanpeace. 
 
 I was involved in two projects at Omdena:
@@ -44,9 +49,4 @@ Community Action for Rural Development Society (CARDS) is a non-governmental, so
 I have also volunteered at [GreenPeace, India](https://www.greenpeace.org/india/en/) and a member of [WWF, India](https://www.wwfindia.org/). 
 I was apart of WWF's Ek prithvi intitative where I collected surveys from school children of grades 6-9. I further automated the data collection process by using Tesseract OCR and conducted data analysis on MS Excel. 
 
-
-Outside of my research and studies, I love reading books and you can follow me on goodreads to check out cool new book recommendations. 
-
-[Check my Goodreads](https://www.goodreads.com/user/show/16889236-tanisha){:target="_blank"}{: .btn .btn--info}
-{: .text-center}
 
