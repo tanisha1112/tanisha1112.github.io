@@ -58,7 +58,7 @@ date: 2023-09-09
 ### Active Robotics and Sensing Lab, NCSU  
 ***Research Assistant***
 
-*March, 2023 - Present, Raleigh, NC*
+*March, 2023 - September 2023, Raleigh, NC*
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/foram.jpg"  width="300" />
 
@@ -90,7 +90,7 @@ topology preserving edge-based segmentation
 
 
 ### Intello Labs 
-***Deep Learning Engineer***
+***Machine Learning Engineer***
 
 *Jan,2020 - May,2021 Gurgaon,India*
 
@@ -107,27 +107,38 @@ topology preserving edge-based segmentation
 ### Qiggle 
 ***Data Scientist***
 
-*Jan,2019 - Oct,2019 Delhi,India*
+*Jan,2019 - Dec,2019 Delhi,India*
 
 - Designed a predictive analytics solution for industrial applications using Anomaly detection and remaining life estimation
 - Detected under-performing and abnormally-behaving assets to save weeks of lost power generation and reduce asset downtime.
 
+### Innefu Technologies
+***Data Science intern***
+
+*Sep, 2018 - Dec, 2018 Delhi,India*
+
+- Implemented ResNet50 and YOLOv3 for advanced facial recognition and video analytics in collaboration with the Delhi Police, leveraging their law enforcement dataset. 
+  
+- Achieved a high True Positive Rate (TPR) exceeding 98% in tasks such as missing persons detection, intrusion detection, crowd management, and security surveillance.
+
 ### GenElek Technologies
-***Electronics Engineer***
+***Electronics Engineer intern***
 
 *Aug,2018 - Sep, 2018 Delhi,India*
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/genelek.png" width="300" />
 
-- Worked on building affordable and light-weight lower limb exoskeletons and innovated the algorithm for sitting and standing.
-- Responsible for the actuation and simulation using Arduino, accelerometer, EMG muscle sensor and actuators
+- Contributed to the development of cost-effective and lightweight lower limb exoskeletons, pioneering advancements in algorithms for seamless transitions between sitting and standing positions.
+- Led the implementation of actuation and simulation through the integration of Arduino, accelerometer, EMG muscle sensor, and actuators.
+  
 ## Achievements
 
+- Ranked first in NC Plant Science Initiative hackathon for the most accurate semantic segmentation model with 79% accuracy.
 - Recipient of the GHC 2023 Scolarship and SWE 2023 Scholarship from NC State. 
 - Academic Chair for Women in ECE (wiECE) at NC State. 
 - Completed a 10 week Leadership Development Program Certification Course at NC State. Earned a leadership certificate by engaging in a coaching relationship and leadership experience, and completing the foundation workshops and a reflection paper.
-- Ranked first in NC Plant Science Initiative hackathon for the most accurate semantic segmentation model with 79% accuracy.
 - Member of Women in Computer Science (wics), Embedded Machine Learning Club and Quantum Information Club at NC State.
+  
 ## Skills
 
 - **Languages:** Python, C/C++, SQL, Bash, Git
@@ -136,4 +147,4 @@ topology preserving edge-based segmentation
 
 ## Courses
 
-Digital Imaging Systems, Digital Signal Processing, and Probability and Random Processes, Neural Networks and Deep Learning, Advanced Machine Learning, Detection and Estimation Theory, Pattern Recognition, Cloud Computing, Natural Language Processing
+Digital Imaging Systems, Neural Networks and Deep Learning, Advanced Machine Learning, Computer Vision, Digital Signal Processing, Natural Language Processing, Probability and Random Processes, Detection and Estimation Theory, Pattern Recognition, Cloud Computing, Probabilistic Graphical Models for Signal Processing and Computer Vision
