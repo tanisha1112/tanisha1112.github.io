@@ -43,12 +43,17 @@ date: 2023-09-09
 ***Graduate Research Assistant***
 
 *March, 2023 - Present, Raleigh, NC*
+<p>
+    <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/bio.png"  width="300" />
+  <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/mtl.png" width="300" /> 
+</p>
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/bio.png"  width="300" />
 
 - Collaborated with USDA to integrate a camera system with an ML model for mapping crop species, biomass and densities.
 - Engineered a containerized system with integrated RESTful APIs for seamless data visualization and control.
 - Implemented an image classification model for precision farming, accurately differentiating crop species from weeds
+- 
+
 
 ### Active Robotics and Sensing Lab, NCSU  
 ***Research Assistant***
@@ -60,6 +65,7 @@ date: 2023-09-09
 - Performed an extensive literature review on chamber segmentation techniques for identification of Foraminifera species.
 - Generated 2D segmentation masks from synthetic 3D reconstructions in Blender, serving as ground truth data for region-based and
 topology preserving edge-based segmentation
+- 
 
 ### Wobot.ai 
 ***Senior Computer Vision Engineer***
