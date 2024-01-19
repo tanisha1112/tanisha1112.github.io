@@ -141,8 +141,48 @@ Collaborated with Endangered Wildlife OU ̈ through Omdena to build an automated
 1. Leveraged Beautiful Soup, Google Search API and journal parsing libraries such as pytesseract, sciparse and tabula for efficient data
 extraction from PDFs and web sources.
 
-1. Developed a Haystack BERT Question- Answering model to track the population of various species over time.
-2. Integrated with Streamlit and AWS RDS to give the results in a csv file and upload to the database. 
+2. Developed a Haystack BERT Question- Answering model to track the population of various species over time.
+3. Integrated with Streamlit and AWS RDS to give the results in a csv file and upload to the database. 
+
+
+### LOLgorithm : Integrating Semantic, Syntactic, and Contextual Elements for Humor Classification
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.png" width="500">{: .align-center}
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}
+
+
+1. Formulated humor recognition as a classification task distinguishing between humorous and non-humorous instances.
+   
+2. Explored the syntactical structure involves leveraging Lexicons to capture sentiment counts within a sentence, while Statistics of Structural Elements (SSE) encapsulates the statistical insights of Noun phrases, Word phrases, and more.
+   
+3.  Unveiled the semantic layers of humor delves into Word2Vec embeddings, analyzing incongruity, ambiguity, and phonetic structures within sentences. Additionally, contextual information was harnessed through ColBERT embeddings. For each latent structure, a set of features were designed to capture the potential indicators of humor.
+
+Increased the F1 score for the SOTA Colbert model from 50% to 62%, showcasing a 24% improvement in performance on unseen data. 
+
+
+### Prompt Engineering for Question Answering: Optimizing LLM Performance on the SQuAD 2.0 Dataset
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/CSC_791_Assignments/tree/main){:target="_blank"}
+
+1. Conducted in-depth exploration of Large Language Model (LLM) capabilities with a focus on prompt engineering for question answering applications.
+   
+2. Experimented with various prompt strategies such as few-shot, chain-of-thought, Generated Knowledge and other parameters to assess their impact on question answering performance using the SQUAD2.0 dataset
+
+3. Evaluated performance metrics such as F1 score, Exact Match (EM) score, Bi-Encoder Score, Semantic Answer Similarity (SAS) metric, Bilingual Evaluation Understudy (BLEU), and ROUGE Score for a thorough analysis of the task outcomes.
+
+
+### Event Classification through Word Embedding Exploration
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/embed.png" width="500">{: .align-center}
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/CSC_791_Assignments/tree/main){:target="_blank"}
+
+1. Implemented effective embedding schemes such as TF-IDF, Sentence Bert Embedding, InferSent, Doc2Vec and GloVe on a news snippet dataset. 
+2. Employed nearest neighbor search using cosine similarity for classification and evaluated the top-k accuracy for different embeddings. 
+3. Surpassed TF-IDF baseline with substantial performance improvement. 
 
 
 ## Signal Processing
