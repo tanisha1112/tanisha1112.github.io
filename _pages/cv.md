@@ -115,7 +115,7 @@ topology preserving edge-based segmentation
 ### Innefu Technologies
 ***Data Science intern***
 
-*Sep, 2018 - Dec, 2018 Delhi,India*
+*Oct, 2018 - Dec, 2018 Delhi,India*
 
 - Implemented ResNet50 and YOLOv3 for advanced facial recognition and video analytics in collaboration with the Delhi Police, leveraging their law enforcement dataset. 
   
@@ -124,7 +124,7 @@ topology preserving edge-based segmentation
 ### GenElek Technologies
 ***Electronics Engineer intern***
 
-*Aug,2018 - Sep, 2018 Delhi,India*
+*Aug,2018 - Oct, 2018 Delhi,India*
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/genelek.png" width="300" />
 
