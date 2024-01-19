@@ -147,7 +147,7 @@ extraction from PDFs and web sources.
 
 ### LOLgorithm : Integrating Semantic, Syntactic, and Contextual Elements for Humor Classification
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.png" width="500">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.jpg" width="500">{: .align-center}
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}
@@ -162,7 +162,7 @@ extraction from PDFs and web sources.
 Increased the F1 score for the SOTA Colbert model from 50% to 62%, showcasing a 24% improvement in performance on unseen data. 
 
 
-### Prompt Engineering for Question Answering: Optimizing LLM Performance on the SQuAD 2.0 Dataset
+### Prompt Engineering for Question Answering
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/CSC_791_Assignments/tree/main){:target="_blank"}
 
