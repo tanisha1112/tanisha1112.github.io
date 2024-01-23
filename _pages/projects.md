@@ -148,7 +148,7 @@ extraction from PDFs and web sources.
 
 ### LOLgorithm : Integrating Semantic, Syntactic, and Contextual Elements for Humor Classification
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}     [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}     [![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.jpg" width="600">{: .align-center}
 
@@ -235,3 +235,13 @@ A code listing for these functions is provided in the appendix.
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/clt.png" width="400">{: .align-center}
 
 - Implementation of Central Limit theorem
+
+## Cloud Computing
+### Health Monitoring Wearables and Cloud Integration
+
+[![Open Term Paper](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/AWS.png" width="500">{: .align-center}
+
+This project aims to create a seamless ecosystem where wearable health devices and cloud computing converge to redefine healthcare. By enabling individuals to monitor their health through wearable devices and providing healthcare providers with real-time data, the project enhances patient engagement and empowers more informed healthcare decisions. It establishes a secure, scalable, and interoperable cloud-based infrastructure for data collection, analysis, and secure sharing, while prioritizing security and privacy.
+
