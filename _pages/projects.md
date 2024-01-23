@@ -163,7 +163,7 @@ extraction from PDFs and web sources.
 Increased the F1 score for the SOTA Colbert model from 50% to 62%, showcasing a 24% improvement in performance on unseen data. 
 
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/dt.png" width="500">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/dt.png" width="400">{: .align-center}
 
 
 ### Prompt Engineering for Question Answering
