@@ -159,7 +159,11 @@ extraction from PDFs and web sources.
    
 3.  Unveiled the semantic layers of humor delves into Word2Vec embeddings, analyzing incongruity, ambiguity, and phonetic structures within sentences. Additionally, contextual information was harnessed through ColBERT embeddings. For each latent structure, a set of features were designed to capture the potential indicators of humor.
 
+
 Increased the F1 score for the SOTA Colbert model from 50% to 62%, showcasing a 24% improvement in performance on unseen data. 
+
+
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/dt.png" width="500">{: .align-center}
 
 
 ### Prompt Engineering for Question Answering
