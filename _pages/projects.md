@@ -136,18 +136,21 @@ Applied data augmentation techniques to enhance the dataset’s diversity and mo
 
 ### Modeling Food Web and Forecasting Populations for Endangered Wildlife Species
 
-Collaborated with Endangered Wildlife OU ̈ through Omdena to build an automated data collection & extraction tool.
+
+Collaborated with [Endangered Wildlife OU ̈](https://endangeredwild.life/) through [Omdena](https://www.omdena.com/projects/ai-biodiversity) to build an automated data collection & extraction tool.
 
 1. Leveraged Beautiful Soup, Google Search API and journal parsing libraries such as pytesseract, sciparse and tabula for efficient data
 extraction from PDFs and web sources.
 
-2. Developed a Haystack BERT Question- Answering model to track the population of various species over time.
-3. Integrated with Streamlit and AWS RDS to give the results in a csv file and upload to the database. 
+1. Developed a Haystack BERT Question- Answering model to track the population of various species over time.
+2. Integrated with Streamlit and AWS RDS to give the results in a csv file and upload to the database. 
 
 
 ### LOLgorithm : Integrating Semantic, Syntactic, and Contextual Elements for Humor Classification
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.jpg" width="600">{: .align-center}
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}

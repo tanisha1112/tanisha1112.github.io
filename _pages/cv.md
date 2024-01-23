@@ -48,11 +48,11 @@ date: 2023-09-09
   <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/mtl.png" width="300" /> 
 </p>
 
-
 - Collaborated with USDA to integrate a camera system with an ML model for mapping crop species, biomass and densities.
+- Working on Domain Adaptation and Multi-task learning for Semantic Segmentation using Deeplabv3+ and Biomass Composition of plant species to assess crop yield and monitor plant growth.
+- Achieved an RMSE of 6.49, a 14.3% decrease from the SOTA model with no additional data and improved real time performance.
 - Engineered a containerized system with integrated RESTful APIs for seamless data visualization and control.
 - Implemented an image classification model for precision farming, accurately differentiating crop species from weeds
-- 
 
 
 ### Active Robotics and Sensing Lab, NCSU  
@@ -62,10 +62,8 @@ date: 2023-09-09
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/foram.jpg"  width="300" />
 
-- Performed an extensive literature review on chamber segmentation techniques for identification of Foraminifera species.
-- Generated 2D segmentation masks from synthetic 3D reconstructions in Blender, serving as ground truth data for region-based and
-topology preserving edge-based segmentation
-- 
+- Performed an extensive literature survey and analysis on region-based and topology preserving edge-based chamber segmentation techniques for identification of Foraminifera species.
+- Generated 2D segmentation masks from synthetic 3D reconstructions in Blender and trained a U-Net segmentation model.
 
 ### Wobot.ai 
 ***Senior Computer Vision Engineer***
@@ -84,7 +82,7 @@ topology preserving edge-based segmentation
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/slowfast.jpeg" width="300" /> 
 
 
-- Activity Recognition for usecases like mopping and shoplifting detection
+- Activity Recognition for usecases like mopping and shoplifting detection using Slow Fast with Pytorch and DeepSort tracking algorithm. 
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/yolov5.jpg" width="300" /> 
 
@@ -100,7 +98,7 @@ topology preserving edge-based segmentation
 </p>
 
 - Led the entire development lifecycle for a real-time AI powered commodity grader [Intello Sort](https://www.intellolabs.com/intellosort) utilizing size, color and visual defect analysis.
-- Involved in the project [Intello Shelf Eye](https://www.intellolabs.com/intello-shelfeye) to monitor shelves, crates, and bins and check the quality of the fruits and vegetables.
+- Developed [Intello Shelf Eye](https://www.intellolabs.com/intello-shelfeye) to monitor shelves and bins and assess the quality of the fruits and vegetables over a Rasberry Pi camera. 
 - Accomplished an identification accuracy of 95% and classification accuracy of approximately 90%.
 - Utilized Faster RCNN, Mask-RCNN and SSD for object detection of 20 different fruits with an average size error of ∼1 mm.
 
