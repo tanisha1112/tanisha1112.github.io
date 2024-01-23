@@ -243,5 +243,8 @@ A code listing for these functions is provided in the appendix.
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/AWS.png" width="500">{: .align-center}
 
-This project aims to create a seamless ecosystem where wearable health devices and cloud computing converge to redefine healthcare. By enabling individuals to monitor their health through wearable devices and providing healthcare providers with real-time data, the project enhances patient engagement and empowers more informed healthcare decisions. It establishes a secure, scalable, and interoperable cloud-based infrastructure for data collection, analysis, and secure sharing, while prioritizing security and privacy.
+This project aims to create a seamless ecosystem where wearable health devices and cloud computing converge to redefine healthcare.  It establishes a secure, scalable, and interoperable cloud-based infrastructure for data collection, analysis, and secure sharing, while prioritizing security and privacy.
+
+- Utilized Kubernetes Horizontal Pod Autoscaler (HPA) functionality for Dynamic Scaling. 
+- Generated the load using Minikube and analyzed the results using Locust monitoring. 
 
