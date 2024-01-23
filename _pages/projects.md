@@ -148,11 +148,7 @@ extraction from PDFs and web sources.
 
 ### LOLgorithm : Integrating Semantic, Syntactic, and Contextual Elements for Humor Classification
 
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
-
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}     [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.jpg" width="600">{: .align-center}
 
