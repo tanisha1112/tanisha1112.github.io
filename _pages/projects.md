@@ -137,7 +137,7 @@ Applied data augmentation techniques to enhance the dataset’s diversity and mo
 ### Modeling Food Web and Forecasting Populations for Endangered Wildlife Species
 
 
-Collaborated with [Endangered Wildlife OU ̈](https://endangeredwild.life/) through [Omdena](https://www.omdena.com/projects/ai-biodiversity) to build an automated data collection & extraction tool.
+Collaborated with [Endangered Wildlife OU ̈](https://endangeredwild.life/){:target="_blank"}  through [Omdena](https://www.omdena.com/projects/ai-biodiversity){:target="_blank"}  to build an automated data collection & extraction tool.
 
 1. Leveraged Beautiful Soup, Google Search API and journal parsing libraries such as pytesseract, sciparse and tabula for efficient data
 extraction from PDFs and web sources.
