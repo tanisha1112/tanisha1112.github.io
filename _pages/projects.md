@@ -147,7 +147,7 @@ extraction from PDFs and web sources.
 
 ### LOLgorithm : Integrating Semantic, Syntactic, and Contextual Elements for Humor Classification
 
-<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.jpg" width="500">{: .align-center}
+<img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/NLP.jpg" width="600">{: .align-center}
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tanisha1112/LOLgarithm){:target="_blank"}
