@@ -239,7 +239,7 @@ A code listing for these functions is provided in the appendix.
 ## Cloud Computing
 ### Health Monitoring Wearables and Cloud Integration
 
-[![Open Term Paper](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Term_Paper_NLP.pdf){:target="_blank"}
+[![Open Term Paper](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://tanisha1112.github.io/resumes/Gaurkar_Khurana.pdf){:target="_blank"}
 
 <img src="https://raw.githubusercontent.com/tanisha1112/tanisha1112.github.io/master/images/AWS.png" width="500">{: .align-center}
 
